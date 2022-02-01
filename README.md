@@ -1,2 +1,2 @@
-# Sorting-with-linked-list-approach-on-Assembly
-Assembly code implementation of linked list approach
+# Alt Seviye Programlama Ödev-1
+Linkli liste mantığını kullanarak sort yapan assembly kodu
